@@ -8,8 +8,9 @@
 
 <template>
   <h1>TIDE App Demo</h1>
-  <TideButton :class="[CSS.MB_1]">Library</TideButton>
-  <TideButton :is-red="true">Library</TideButton>
+  <TideButton :class="[CSS.MB_1]" :id="1">Test</TideButton>
+  <TideButton :class="[CSS.MB_1]" :id="2">Test</TideButton>
+  <TideButton :class="[CSS.MB_1]" :id="3">Test</TideButton>
 </template>
 
 <style src="@/assets/css/utilities.css" />

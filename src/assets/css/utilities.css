@@ -2,5 +2,14 @@ button {display: block;}
 
 .mb-1 {margin-bottom: 1rem;}
 
-.bg-red {background-color: pink !important;}
-.bg-yellow {background-color: lightyellow !important;}
+.p-1    {padding: 1rem;}
+.p-1\/2 {padding: 0.5rem;}
+
+.border-green {border: 1px solid green;}
+
+.radius-1\/4 {border-radius: 0.25rem;}
+
+.bg-blue   {background-color: lightblue;}
+.bg-green  {background-color: lightgreen;}
+.bg-red    {background-color: pink;}
+.bg-yellow {background-color: lightyellow;}
